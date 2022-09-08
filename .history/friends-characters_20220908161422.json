@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": ,
         "character": "Ross Geller",
         "occupations": [
             "Paleontologist",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": ,
         "character": "Chandler Bing",
         "occupations": [
             "Vice President - IT Procurement",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": ,
         "character": "Joey Tribbiani",
         "occupations": [
             "Actor",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": ,
         "character": "Rachel Green",
         "occupations": [
             "Waitress ",
@@ -76,7 +76,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": ,
         "character": "Monica Geller",
         "occupations": [
             "Chef",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": ,
         "character": "Phoebe Buffay",
         "occupations": [
             "Masseuse",
